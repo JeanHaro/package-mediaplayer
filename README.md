@@ -4,3 +4,8 @@ Curso Profesional de JavaScript - Platzi
 - AutoPlay
 - AutoPause
 - Ads
+
+## Install
+``` npm
+    npm install @jeanharo98/platzi-mediaplayer 
+```
