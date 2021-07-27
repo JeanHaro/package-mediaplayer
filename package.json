@@ -1,12 +1,23 @@
 {
-  "name": "mediaplayer",
+  "name": "@jean98/platzi-mediaplayer",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Media Player con plugins AutoPlay AutoPause y Ads",
+  "main": "lib/MediaPlayer.js",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeanHaro/package-mediaplayer.git"
+  },
   "author": "Jean Haro <JeanCHL98@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeanHaro/package-mediaplayer/issues"
+  },
+  "homepage": "https://github.com/JeanHaro/package-mediaplayer#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
 }
