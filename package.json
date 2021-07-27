@@ -1,5 +1,5 @@
 {
-  "name": "@jeanh98/platzi-mediaplayer",
+  "name": "@jeanharo98/platzi-mediaplayer",
   "version": "1.0.0",
   "description": "Media Player con plugins AutoPlay AutoPause y Ads",
   "main": "lib/MediaPlayer.js",
